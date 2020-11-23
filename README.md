@@ -45,13 +45,11 @@
 ### :lock_with_ink_pen: 𝙋𝙚𝙧𝙨𝙤𝙣𝙖𝙡 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨
 Name | Description | Status | Link
 -----|-------------|--------|------
-Chat App | This is a chat application with live location | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/cankush625/Chat-App)
 Tinder Clone | This is the clone of Tinder | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/cankush625/TinderClone)
+Chat App | This is a chat application with live location | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/cankush625/Chat-App)
+WebTermX | This is the mobile terminal | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/cankush625/WebTermX)
 AutoTweetLiker | This is an intelligent tweet liker | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/cankush625/AutoTweetLiker)
-:computer: NixOS dotfiles | My NixOS dotfiles |  | [Link](https://github.com/shiryel/nixos-dotfiles)
-:page_facing_up: Neovim config | My vim configuration |  | [Link](https://github.com/shiryel/neoVim-configs)
-:tada: [Half Life 3](https://youtu.be/dQw4w9WgXcQ) | Yes | [![Badge](https://img.shields.io/badge/Status-YES-LightSeaGreen.svg)](https://shields.io/) | [Link](https://youtu.be/hIputTTexwA)
-
+AWS-TUI | Terminal User Interface for AWS | ![Badge](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg) | [Link](https://github.com/cankush625/AWS-TUI)
 
 
 You can find my blogs on [Medium](https://ankush-chavan.medium.com/)
