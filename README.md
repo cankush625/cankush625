@@ -15,7 +15,6 @@
 <summary>📊 Github Stats</summary>
 
 <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=cankush625&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="Ankush Chavan | Stats" />
-<!-- wi*quL3fcV -->
 
 <!-- </details>
 <br />
@@ -34,10 +33,50 @@
   <img src="https://github-profile-trophy.vercel.app/?username=cankush625&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 </p>
 
+<br />
+
 <p align=center>
 <img src="https://badges.pufler.dev/visits/cankush625/cankush625?color=black&logo=github" />
 <img src="https://komarev.com/ghpvc/?username=cankush625&color=brightgreen" />
 <img src="https://badges.pufler.dev/commits/monthly/cankush625?color=blue" />
+</p>
+
+<br />
+<hr />
+
+### Technologies
+
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="redhat" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="openshift" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="googlecloud" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/openstack/openstack-icon.svg" alt="openstack" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/clojure/clojure-icon.svg" alt="clojure" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="arch_linux" width="40" height="40"/>
 </p>
 
 <br />
@@ -51,8 +90,9 @@ WebTermX | This is the mobile terminal | ![Badge](https://img.shields.io/badge/S
 AutoTweetLiker | This is an intelligent tweet liker | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/cankush625/AutoTweetLiker)
 AWS-TUI | Terminal User Interface for AWS | ![Badge](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg) | [Link](https://github.com/cankush625/AWS-TUI)
 
+<br />
 
-You can find my blogs on [Medium](https://ankush-chavan.medium.com/)
+### You can find my blogs on [Medium](https://ankush-chavan.medium.com/)
 - [Running GUI Applications in Docker Container](https://ankush-chavan.medium.com/running-gui-applications-in-docker-container-f088e48dab9b)
 - [Mobile Terminal using Flutter, Firestore and StreamBuilder](https://ankush-chavan.medium.com/mobile-terminal-using-flutter-firestore-and-streambuilder-dd80424f3737)
 - [Math-Driven Approach towards Animation in Flutter](https://ankush-chavan.medium.com/math-driven-approach-towards-animation-in-flutter-4936daf1af2b)
