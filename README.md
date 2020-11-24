@@ -1,5 +1,6 @@
 # [Ankush Chavan]()
 
+![alt text](Thumbnails/MyBackground.png)
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
 
@@ -7,6 +8,8 @@
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
 [<img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />][Medium]
+[<img height="30" src="https://img.shields.io/badge/dev-000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />][Dev]
+[<img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][Instagram]
 <!-- [<img height="30" src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white" />][Hashnode] -->
 <br />
 <hr />
@@ -42,7 +45,9 @@
 <p align=center>
 <img src="https://badges.pufler.dev/visits/cankush625/cankush625?color=black&logo=github" />
 <img src="https://komarev.com/ghpvc/?username=cankush625&color=brightgreen" />
+<a href="https://github.com/cankush625">
 <img src="https://badges.pufler.dev/commits/monthly/cankush625?color=blue" />
+</a>
 </p>
 
 <br />
@@ -107,4 +112,6 @@ AWS-TUI | Terminal User Interface for AWS | ![Badge](https://img.shields.io/badg
 [twitter]: https://twitter.com/cankush625
 [gmail]: https://gmail.com
 [Medium]: https://ankush-chavan.medium.com/
+[Dev]: https://dev.to/cankush625
+[Instagram]: https://www.instagram.com/ankushchavan_/
 [Hashnode]: https://ankushchavan.hashnode.dev/
