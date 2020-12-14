@@ -93,6 +93,7 @@
 ### :lock_with_ink_pen: 𝙋𝙚𝙧𝙨𝙤𝙣𝙖𝙡 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨
 Name | Description | Status | Link
 -----|-------------|--------|------
+Instagram Clone | Clone of Instagram using Flutter and Firebase | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/cankush625/Instagram_Clone)
 Tinder Clone | This is the clone of Tinder | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/cankush625/TinderClone)
 Chat App | This is a chat application with live location | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/cankush625/Chat-App)
 WebTermX | This is the mobile terminal | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/cankush625/WebTermX)
