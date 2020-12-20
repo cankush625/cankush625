@@ -110,7 +110,7 @@ AWS-TUI | Terminal User Interface for AWS | ![Badge](https://img.shields.io/badg
 - [Sending CLI Output to Whatsapp using Command Line](https://ankush-chavan.medium.com/sending-cli-output-to-whatsapp-using-command-line-e2213b6c1a8b)
 
 [linkedin]: https://www.linkedin.com/in/ankushchavan/
-[twitter]: https://twitter.com/cankush625
+[twitter]: https://twitter.com/TheNameIsAnkush
 [gmail]: https://gmail.com
 [Medium]: https://ankush-chavan.medium.com/
 [Dev]: https://dev.to/cankush625
