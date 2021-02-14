@@ -10,7 +10,6 @@
 [<img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />][Medium]
 [<img height="30" src="https://img.shields.io/badge/stack%20overflow-C13584.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />][StackOverflow]
 [<img height="30" src="https://img.shields.io/badge/dev-000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />][Dev]
-[<img height="30" src="https://img.shields.io/badge/instagram-C13584.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][Instagram]
 <!-- [<img height="30" src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white" />][Hashnode] -->
 <br />
 <hr />
@@ -116,5 +115,4 @@ AWS-TUI | Terminal User Interface for AWS | ![Badge](https://img.shields.io/badg
 [Medium]: https://ankush-chavan.medium.com/
 [StackOverflow]: https://stackoverflow.com/users/14997048/ankush-chavan?tab=profile
 [Dev]: https://dev.to/cankush625
-[Instagram]: https://www.instagram.com/ankushchavan_/
 [Hashnode]: https://ankushchavan.hashnode.dev/
