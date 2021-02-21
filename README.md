@@ -95,6 +95,7 @@ Name | Description | Status | Link
 -----|-------------|--------|------
 Instagram Clone | Clone of Instagram using Flutter and Firebase | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/cankush625/Instagram_Clone)
 Tinder Clone | This is the clone of Tinder | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/cankush625/TinderClone)
+WhatsApp Clone | This is the clone of WhatsApp Web | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/cankush625/WhatsApp-clone)
 Chat App | This is a chat application with live location | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/cankush625/Chat-App)
 WebTermX | This is the mobile terminal | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/cankush625/WebTermX)
 AutoTweetLiker | This is an intelligent tweet liker | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/cankush625/AutoTweetLiker)
