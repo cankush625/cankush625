@@ -1,21 +1,23 @@
-# [Ankush Chavan]()
+# Ankush Chavan
 
-![alt text](Thumbnails/MyBackground.png)
+![Banner](Thumbnails/MyBackground.png)
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
-
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
-[<img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />][Medium]
-[<img height="30" src="https://img.shields.io/badge/stack%20overflow-C13584.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />][StackOverflow]
-[<img height="30" src="https://img.shields.io/badge/dev-000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />][Dev]
-<!-- [<img height="30" src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white" />][Hashnode] -->
+<p align="center">
+<img height="30" href = "https://www.linkedin.com/in/ankushchavan/" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<img height="30" href = "https://twitter.com/TheNameIsAnkush" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+<img height="30" href = "https://gmail.com" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
+<br/>
+<img height="30" href = "https://ankush-chavan.medium.com/" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />]
+<img height="30" href = "https://stackoverflow.com/users/14997048/ankush-chavan" src="https://img.shields.io/badge/stack%20overflow-C13584.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
+<img height="30" href = "https://dev.to/cankush625" src="https://img.shields.io/badge/dev-000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
+<!-- <img height="30" href = "https://ankushchavan.hashnode.dev/" src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white" /> -->
+</p>
 <br />
 <hr />
 
 <details>
-<summary>📊 Github Stats</summary>
+<summary>📊 GitHub Stats</summary>
 
 <a href="https://github.com/cankush625">
 <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=cankush625&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="Ankush Chavan | Stats" />
@@ -91,6 +93,7 @@
 <br />
 
 ### :lock_with_ink_pen: 𝙋𝙚𝙧𝙨𝙤𝙣𝙖𝙡 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨
+
 Name | Description | Status | Link
 -----|-------------|--------|------
 Instagram Clone | Clone of Instagram using Flutter and Firebase | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/cankush625/Instagram_Clone)
@@ -104,16 +107,9 @@ AWS-TUI | Terminal User Interface for AWS | ![Badge](https://img.shields.io/badg
 <br />
 
 ### You can find my blogs on [Medium](https://ankush-chavan.medium.com/)
+
 - [Running GUI Applications in Docker Container](https://ankush-chavan.medium.com/running-gui-applications-in-docker-container-f088e48dab9b)
 - [Mobile Terminal using Flutter, Firestore and StreamBuilder](https://ankush-chavan.medium.com/mobile-terminal-using-flutter-firestore-and-streambuilder-dd80424f3737)
 - [Math-Driven Approach towards Animation in Flutter](https://ankush-chavan.medium.com/math-driven-approach-towards-animation-in-flutter-4936daf1af2b)
 - [Getting started with Redhat OpenShift Container Platform(RHOCP)](https://ankush-chavan.medium.com/getting-started-with-redhat-openshift-container-platform-rhocp-34520e133608)
 - [Sending CLI Output to Whatsapp using Command Line](https://ankush-chavan.medium.com/sending-cli-output-to-whatsapp-using-command-line-e2213b6c1a8b)
-
-[linkedin]: https://www.linkedin.com/in/ankushchavan/
-[twitter]: https://twitter.com/TheNameIsAnkush
-[gmail]: https://gmail.com
-[Medium]: https://ankush-chavan.medium.com/
-[StackOverflow]: https://stackoverflow.com/users/14997048/ankush-chavan?tab=profile
-[Dev]: https://dev.to/cankush625
-[Hashnode]: https://ankushchavan.hashnode.dev/
