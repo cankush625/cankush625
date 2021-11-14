@@ -14,8 +14,7 @@
 <br />
 <hr />
 
-<details>
-<summary>📊 Github Stats</summary>
+📊 Github Stats
 
 <a href="https://github.com/cankush625">
 <img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=cankush625&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="Ankush Chavan | Stats" />
@@ -31,7 +30,8 @@
 <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cankush625&hide=html,css,tsql&hide_title=true&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Ankush Chavan | Top Languages" />
 </a>
 
-</details>
+
+<br />
 <br />
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cankush625)](https://github.com/cankush625/github-readme-stats) -->
