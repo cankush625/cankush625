@@ -27,7 +27,7 @@
 <summary>💻 Top Languages</summary> -->
 
 <a href="https://github.com/cankush625">
-<img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cankush625&hide=html,css,tsql&hide_title=true&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Ankush Chavan | Top Languages" />
+<img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cankush625&hide=html,css,tsql,matlab,vue,less,hcl,jupyter%20notebook&hide_title=true&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Ankush Chavan | Top Languages" />
 </a>
 
 
