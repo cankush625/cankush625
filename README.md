@@ -1,5 +1,3 @@
-# [Ankush Chavan]()
-
 ![alt text](Thumbnails/MyBackground.png)
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
