@@ -44,8 +44,6 @@
 
 <p align=center>
 <img src="https://badges.pufler.dev/visits/cankush625/cankush625?color=black&logo=github" />
-<img src="https://komarev.com/ghpvc/?username=cankush625&color=brightgreen" />
-<a href="https://github.com/cankush625">
 <img src="https://badges.pufler.dev/commits/monthly/cankush625?color=blue" />
 </a>
 </p>
