@@ -90,7 +90,7 @@
 
 <br />
 
-### :lock_with_ink_pen: 𝙋𝙚𝙧𝙨𝙤𝙣𝙖𝙡 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨
+### :lock_with_ink_pen: Personal Projects
 Name | Description | Status | Link
 -----|-------------|--------|------
 Instagram Clone | Clone of Instagram using Flutter and Firebase | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/cankush625/Instagram_Clone)
