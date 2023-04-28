@@ -69,9 +69,6 @@ AWS-TUI | Terminal User Interface for AWS | ![Badge](https://img.shields.io/badg
 - [Getting started with Redhat OpenShift Container Platform(RHOCP)](https://ankush-chavan.medium.com/getting-started-with-redhat-openshift-container-platform-rhocp-34520e133608)
 - [Sending CLI Output to Whatsapp using Command Line](https://ankush-chavan.medium.com/sending-cli-output-to-whatsapp-using-command-line-e2213b6c1a8b)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 <p align=center>
     <a href="https://visitcount.itsvg.in">
