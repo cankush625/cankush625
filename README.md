@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a Software Engineer experienced in backend development.<br>Currently, I'm learning design patterns, system design, and microservice architecture.<br>I document my learning in the form of blogs on Medium along with pushing relevant code to Github.
+I'm a Software Engineer experienced in backend development.<br>
+Currently, I'm exploring Golang, design patterns, system design, and microservice architecture.<br>
+I document my learning in the form of blogs on Medium along with pushing relevant code to Github.
 
 
 ## 🌐 Socials:
