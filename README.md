@@ -55,12 +55,13 @@ I document my learning in the form of blogs on Medium along with pushing relevan
 # 🔏 Personal Projects
 Name | Description | Status | Link
 -----|-------------|--------|------
+HelixDB | In-memory data store built using Golang | ![Badge](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg) | [Link](https://github.com/cankush625/HelixDB)
 Instagram Clone | Clone of Instagram using Flutter and Firebase | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/cankush625/Instagram_Clone)
 WhatsApp Clone | This is the clone of WhatsApp Web | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/cankush625/WhatsApp-clone)
 Chat App | This is a chat application with live location | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/cankush625/Chat-App)
 WebTermX | This is the mobile terminal | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/cankush625/WebTermX)
 AutoTweetLiker | This is an intelligent tweet liker | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/cankush625/AutoTweetLiker)
-AWS-TUI | Terminal User Interface for AWS | ![Badge](https://img.shields.io/badge/Status-INPROGRESS-yellow.svg) | [Link](https://github.com/cankush625/AWS-TUI)
+AWS-TUI | Terminal User Interface for AWS | ![Badge](https://img.shields.io/badge/Status-COMPLETED-LightSeaGreen.svg) | [Link](https://github.com/cankush625/AWS-TUI)
 
 <br/>
 
