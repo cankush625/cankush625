@@ -48,7 +48,7 @@ I document my learning in the form of blogs on Medium along with pushing relevan
 # 📊 GitHub Stats:
 <p>
 <img height="147.3px" src="https://github-readme-stats.vercel.app/api?username=cankush625&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&show=prs_merged_percentage&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="147.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cankush625&hide=html,css,tsql,less,matlab,vue,jupyter%20notebook&hide_title=true&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<img height="147.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cankush625&hide=html,css,scss,c%2B%2B,javascript,ruby,clojure,php,kotlin,hcl,tsql,less,matlab,vue,jupyter%20notebook&hide_title=true&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </p>
 <img height="147.3px" src="https://github-readme-streak-stats.herokuapp.com/?user=cankush625&theme=blue-green&hide_border=false" />
 
